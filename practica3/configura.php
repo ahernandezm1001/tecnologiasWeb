@@ -20,6 +20,7 @@ echo"<table>
             </tr>
         </thead>
         <tr>
+        
             <td colspan='2'>Periodo</td>
             <td>Direccion</td>
             <td>Reconocimiento</td>
